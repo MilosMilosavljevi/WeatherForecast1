@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <!--Adapter-->
+    <string name="temperature">Temperature:\u0020</string>
+    <string name="pressure">Pressure:\u0020</string>
+    <string name="humidity">Humidity:\u0020</string>
+    <string name="min_temperature">Min Temperature:\u0020</string>
+    <string name="max_temperature">Max Temperature:\u0020</string>
+
+</resources>
